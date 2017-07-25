@@ -17,14 +17,14 @@
     
     
     
-   ## Legal
+   ## Legal Usage Defined (GNU AGPLv3)
     
    For use, please refer to https://www.gnu.org/licenses/gpl-howto.html.   
    For legal FAQ, please refer to https://www.gnu.org/licenses/gpl-faq.html.   
 
 
 
-   ## Usage Defined   
+   ## Internal Usage Defined   
 
    This repository is to be used for media assets only.
     

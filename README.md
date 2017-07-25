@@ -1,6 +1,6 @@
 # Media
 
-.. . ## Legal
+ ## Legal
 
     This file is part of christopher-j-jepson/Media.
 
@@ -19,14 +19,14 @@
     
     
     
-.. . For use, please refer to https://www.gnu.org/licenses/gpl-howto.html. 
+   For use, please refer to https://www.gnu.org/licenses/gpl-howto.html. 
 
-.. . For legal FAQ, please refer to https://www.gnu.org/licenses/gpl-faq.html. 
+   For legal FAQ, please refer to https://www.gnu.org/licenses/gpl-faq.html. 
 
 
-.. . ## Usage Defined
+## Usage Defined
 
-    This repository is to be used for media assets only.
+   This repository is to be used for media assets only.
     
     * Media assets are defined as the following:
     * Digital Arts & Graphics

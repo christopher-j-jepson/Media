@@ -17,7 +17,7 @@
     
     
     
-   # Legal
+   ## Legal
     
    For use, please refer to https://www.gnu.org/licenses/gpl-howto.html.   
    For legal FAQ, please refer to https://www.gnu.org/licenses/gpl-faq.html.   

@@ -1,0 +1,2 @@
+# Media
+For use, please refer to https://www.gnu.org/licenses/gpl-howto.html. For legal questions, please refer to https://www.gnu.org/licenses/gpl-faq.html. This repository is to be used for media assets only. Media assets are defined as digital arts &amp; graphics, animations, sound effects, songs, texts, fonts, manuals, documents, metadata files of any of the items listed, files derived from applications used for creating any of the listed, and source code modifications of any of the items listed.

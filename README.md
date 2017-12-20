@@ -42,3 +42,10 @@
    * Source code modifications of any of the items listed
 
 
+
+   ## Assets Built On
+   
+   * Gimp: https://www.gimp.org/
+   * Blender: https://www.blender.org/foundation/
+   * Audacity: http://www.audacityteam.org/
+   * Inkscape: https://inkscape.org/en/
